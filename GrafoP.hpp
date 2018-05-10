@@ -76,7 +76,7 @@ Sobrecarga de operador externo:
 #include <fstream>
 #include <iomanip>
 #include <string>
-#include "listaenla.hpp" // requerido por GrafoP<T>::tCamino
+#include "lLikedList.hpp" // requerido por GrafoP<T>::tCamino
 #include "Grafo.hpp"   // requerido por GrafoP<T>::GrafoP(const Grafo&)
 
 using std::vector;
